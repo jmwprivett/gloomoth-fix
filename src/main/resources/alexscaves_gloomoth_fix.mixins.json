@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.example.alexscavesgloomothfix.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "refmap": "alexscaves_gloomoth_fix.refmap.json",
+  "mixins": [
+    "GloomothEntityMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
