@@ -7,6 +7,9 @@ bin
 .project
 .vscode
 localmaven
+libs
+lib*
+*.jar
 
 # idea
 out
@@ -14,7 +17,7 @@ out
 *.iws
 *.iml
 .idea
-libs
+*.pom
 
 # gradle
 build
